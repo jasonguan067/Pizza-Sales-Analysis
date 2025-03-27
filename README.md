@@ -21,13 +21,13 @@ This project analyzes 12+ key metrics—from hourly sales trends to product-leve
 4. **Customer Behavior Insights**
    - Average pizzas per order
 
-[Download Interactive Tableau Dashboard](#) | [View SQL Queries](#)
+[Download Interactive Tableau Dashboard](https://public.tableau.com/app/profile/jason.guan4557/viz/PizzaSalesProject_17427741073350/Home) | [View SQL Queries](PizzaDBquery.sql)
 
 ---
 
 ## Executive Summary
 
-![PizzaReport1](Dashboard/PizzaSalesReport1) ![PizzaReport2](Dashboard/PizzaSalesReport2)
+![PizzaReport1](Dashboard/PizzaSalesReport1.png) ![PizzaReport2](Dashboard/PizzaSalesReport2.png)
 
 Following peak sales in Week 48 (December), PizzaHub experiences a significant post-holiday slump, with January's Week 1 recording the lowest sales volume of the year.
 
